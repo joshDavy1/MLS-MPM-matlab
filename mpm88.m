@@ -28,7 +28,6 @@ end
 
 filename = "mpm88.png";
 for iter=1:5000
-    iter
     % Plot
     plot(x(1,:),x(2,:),'bo','MarkerSize',1);    
     ylim([0 1]);
